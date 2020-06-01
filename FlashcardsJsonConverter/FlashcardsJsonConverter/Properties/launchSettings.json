@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FlashcardsJsonConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "-p C:\\test\\FlashcardsJsonConverter\\flashcards.txt"
+    }
+  }
+}
